@@ -1,0 +1,180 @@
+
+Log Entry : 8:57:20 AM Thursday, June 28, 2018
+  :fw4.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 8:57:20 AM Thursday, June 28, 2018
+  :MegabuxInvoiceFullOCR.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 8:57:20 AM Thursday, June 28, 2018
+  :PhoneNumberPDF.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 9:00:04 AM Thursday, June 28, 2018
+  :TestPassword.pdf
+  :OpenInputFileFailed : Failed to open Toolkit input file, C:\Users\tom.bernard\Desktop\Compressor WatchFolder\Input\TestPassword.pdf.
+-------------------------------
+
+Log Entry : 10:07:47 AM Thursday, June 28, 2018
+  :fw4.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 10:07:47 AM Thursday, June 28, 2018
+  :MegabuxInvoiceFullOCR.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 10:07:47 AM Thursday, June 28, 2018
+  :PhoneNumberPDF.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 11:38:07 AM Thursday, June 28, 2018
+  :fw4.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 11:38:07 AM Thursday, June 28, 2018
+  :MegabuxInvoiceFullOCR.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 11:38:07 AM Thursday, June 28, 2018
+  :PhoneNumberPDF.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 2:04:19 PM Thursday, June 28, 2018
+  :fw4.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 2:04:19 PM Thursday, June 28, 2018
+  :MegabuxInvoiceFullOCR.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 2:04:19 PM Thursday, June 28, 2018
+  :PhoneNumberPDF.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 6:14:07 PM Thursday, June 28, 2018
+  :fw4.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 6:14:08 PM Thursday, June 28, 2018
+  :MegabuxInvoiceFullOCR.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 6:14:08 PM Thursday, June 28, 2018
+  :PhoneNumberPDF.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 2:51:31 PM Friday, June 29, 2018
+  :fw4.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 2:51:32 PM Friday, June 29, 2018
+  :MegabuxInvoiceFullOCR.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 2:51:32 PM Friday, June 29, 2018
+  :PhoneNumberPDF.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 3:41:01 PM Friday, June 29, 2018
+  :fw4.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 3:41:01 PM Friday, June 29, 2018
+  :MegabuxInvoiceFullOCR.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 3:41:01 PM Friday, June 29, 2018
+  :PhoneNumberPDF.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 3:45:56 PM Friday, June 29, 2018
+  :fw4.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 3:45:56 PM Friday, June 29, 2018
+  :MegabuxInvoiceFullOCR.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 3:45:56 PM Friday, June 29, 2018
+  :PhoneNumberPDF.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 8:41:30 AM Tuesday, July 3, 2018
+  :fw4.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 8:41:30 AM Tuesday, July 3, 2018
+  :PhoneNumberPDF.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 9:57:00 AM Tuesday, July 3, 2018
+  :fw4.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 9:57:00 AM Tuesday, July 3, 2018
+  :MegabuxInvoiceFullOCR.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 9:57:00 AM Tuesday, July 3, 2018
+  :PhoneNumberPDF.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 10:01:46 AM Tuesday, July 3, 2018
+  :fw4.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 10:01:46 AM Tuesday, July 3, 2018
+  :MegabuxInvoiceFullOCR.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 10:01:46 AM Tuesday, July 3, 2018
+  :PhoneNumberPDF.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 10:04:24 AM Tuesday, July 3, 2018
+  :fw4.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 10:04:24 AM Tuesday, July 3, 2018
+  :MegabuxInvoiceFullOCR.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------
+
+Log Entry : 10:04:24 AM Tuesday, July 3, 2018
+  :PhoneNumberPDF.pdf
+  :DocumentDidNotCompress : Input file smaller than compressed output.
+-------------------------------

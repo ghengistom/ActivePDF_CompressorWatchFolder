@@ -1,0 +1,44 @@
+C:\Users\Administrator\Downloads\New folder (27)\NET_app\NET_app\bin\Debug\NET_app.exe.config
+C:\Users\Administrator\Downloads\New folder (27)\NET_app\NET_app\bin\Debug\NET_app.exe
+C:\Users\Administrator\Downloads\New folder (27)\NET_app\NET_app\bin\Debug\NET_app.pdb
+C:\Users\Administrator\Downloads\New folder (27)\NET_app\NET_app\bin\Debug\APCompressor.Net45.dll
+C:\Users\Administrator\Downloads\New folder (27)\NET_app\NET_app\obj\Debug\NET_app.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\New folder (27)\NET_app\NET_app\obj\Debug\NET_app.exe
+C:\Users\Administrator\Downloads\New folder (27)\NET_app\NET_app\obj\Debug\NET_app.pdb
+C:\Users\tom.bernard\Desktop\Compressor ScriptsNew one from Michael\NET_app\NET_app\bin\Debug\NET_app.exe.config
+C:\Users\tom.bernard\Desktop\Compressor ScriptsNew one from Michael\NET_app\NET_app\obj\Debug\NET_app.exe
+C:\Users\tom.bernard\Desktop\Compressor ScriptsNew one from Michael\NET_app\NET_app\obj\Debug\NET_app.pdb
+C:\Users\tom.bernard\Desktop\Compressor ScriptsNew one from Michael\NET_app\NET_app\bin\Debug\NET_app.exe
+C:\Users\tom.bernard\Desktop\Compressor ScriptsNew one from Michael\NET_app\NET_app\bin\Debug\NET_app.pdb
+C:\Users\tom.bernard\Desktop\Compressor ScriptsNew one from Michael\NET_app\NET_app\bin\Debug\APCompressor.Net45.dll
+C:\Users\tom.bernard\Desktop\Compressor ScriptsNew one from Michael\NET_app\NET_app\obj\Debug\NET_app.csprojResolveAssemblyReference.cache
+C:\Users\tom.bernard\Desktop\New folder\CompressAFolder\NET_app\bin\Debug\NET_app.exe.config
+C:\Users\tom.bernard\Desktop\New folder\CompressAFolder\NET_app\obj\Debug\NET_app.exe
+C:\Users\tom.bernard\Desktop\New folder\CompressAFolder\NET_app\obj\Debug\NET_app.pdb
+C:\Users\tom.bernard\Desktop\New folder\CompressAFolder\NET_app\bin\Debug\NET_app.exe
+C:\Users\tom.bernard\Desktop\New folder\CompressAFolder\NET_app\bin\Debug\NET_app.pdb
+C:\Users\tom.bernard\Desktop\New folder\CompressAFolder\NET_app\bin\Debug\APCompressor.Net45.dll
+C:\Users\tom.bernard\Desktop\New folder\CompressAFolder\NET_app\obj\Debug\NET_app.csprojResolveAssemblyReference.cache
+C:\Users\tom.bernard\Desktop\Compressor_Examples_CSharp-master (1)\Compressor_Examples_CSharp-master\NET_app\bin\Debug\NET_app.exe.config
+C:\Users\tom.bernard\Desktop\Compressor_Examples_CSharp-master (1)\Compressor_Examples_CSharp-master\NET_app\obj\Debug\NET_app.exe
+C:\Users\tom.bernard\Desktop\Compressor_Examples_CSharp-master (1)\Compressor_Examples_CSharp-master\NET_app\obj\Debug\NET_app.pdb
+C:\Users\tom.bernard\Desktop\Compressor_Examples_CSharp-master (1)\Compressor_Examples_CSharp-master\NET_app\bin\Debug\NET_app.exe
+C:\Users\tom.bernard\Desktop\Compressor_Examples_CSharp-master (1)\Compressor_Examples_CSharp-master\NET_app\bin\Debug\NET_app.pdb
+C:\Users\tom.bernard\Desktop\Compressor_Examples_CSharp-master (1)\Compressor_Examples_CSharp-master\NET_app\bin\Debug\APCompressor.Net45.dll
+C:\Users\tom.bernard\Desktop\Compressor_Examples_CSharp-master (1)\Compressor_Examples_CSharp-master\NET_app\obj\Debug\NET_app.csprojResolveAssemblyReference.cache
+C:\Users\tom.bernard\Desktop\CompressorUserSetInputFolder\CompressorUserSetInput\bin\Debug\NET_app.exe.config
+C:\Users\tom.bernard\Desktop\CompressorUserSetInputFolder\CompressorUserSetInput\obj\Debug\NET_app.exe
+C:\Users\tom.bernard\Desktop\CompressorUserSetInputFolder\CompressorUserSetInput\obj\Debug\NET_app.pdb
+C:\Users\tom.bernard\Desktop\CompressorUserSetInputFolder\CompressorUserSetInput\bin\Debug\NET_app.exe
+C:\Users\tom.bernard\Desktop\CompressorUserSetInputFolder\CompressorUserSetInput\bin\Debug\NET_app.pdb
+C:\Users\tom.bernard\Desktop\CompressorUserSetInputFolder\CompressorUserSetInput\bin\Debug\APCompressor.Net45.dll
+C:\Users\tom.bernard\Desktop\CompressorUserSetInputFolder\CompressorUserSetInput\obj\Debug\NET_app.csprojResolveAssemblyReference.cache
+C:\Users\tom.bernard\Desktop\CompressorWatchFolderProject\CompressorUserSetInput\bin\Debug\NET_app.exe.config
+C:\Users\tom.bernard\Desktop\CompressorWatchFolderProject\CompressorUserSetInput\obj\Debug\NET_app.exe
+C:\Users\tom.bernard\Desktop\CompressorWatchFolderProject\CompressorUserSetInput\obj\Debug\NET_app.pdb
+C:\Users\tom.bernard\Desktop\CompressorWatchFolderProject\CompressorUserSetInput\bin\Debug\NET_app.exe
+C:\Users\tom.bernard\Desktop\CompressorWatchFolderProject\CompressorUserSetInput\bin\Debug\NET_app.pdb
+C:\Users\tom.bernard\Desktop\CompressorWatchFolderProject\CompressorUserSetInput\bin\Debug\APCompressor.Net45.dll
+C:\Users\tom.bernard\Desktop\CompressorWatchFolderProject\CompressorUserSetInput\obj\Debug\NET_app.csprojResolveAssemblyReference.cache
+C:\Users\tom.bernard\Desktop\CompressorWatchFolderProject\CompressorUserSetInput\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tom.bernard\Desktop\CompressorWatchFolderProject\CompressorUserSetInput\bin\Debug\Newtonsoft.Json.xml
